@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://us-focus-pomodoro.enjoy-onepage.com/sitemap.xml
